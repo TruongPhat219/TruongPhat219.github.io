@@ -334,11 +334,11 @@ color: #FFFFFF;
 <body>
 		<br><br><br><br>
 		<p align="center">
-			<img class="Blob" src="https://scontent.fsgn2-4.fna.fbcdn.net/v/t1.15752-9/355331649_1731124347317973_579921226482216658_n.jpg?_nc_cat=101&cb=99be929b-3346023f&ccb=1-7&_nc_sid=ae9488&_nc_ohc=yXcHnlUlSxYAX-3bEeS&_nc_ht=scontent.fsgn2-4.fna&oh=03_AdS-j1ovxYvGKhXyh8WOvK6MwDYq3scfhqM4fCqbF6M_7A&oe=64BD23F0" width="130" height="130" alt="_ThanhDieu"></p>
+			<img class="Blob" src="[https://scontent.fsgn2-4.fna.fbcdn.net/v/t1.15752-9/355331649_1731124347317973_579921226482216658_n.jpg?_nc_cat=101&cb=99be929b-3346023f&ccb=1-7&_nc_sid=ae9488&_nc_ohc=yXcHnlUlSxYAX-3bEeS&_nc_ht=scontent.fsgn2-4.fna&oh=03_AdS-j1ovxYvGKhXyh8WOvK6MwDYq3scfhqM4fCqbF6M_7A&oe=64BD23F0](https://www.google.com/url?sa=i&url=https%3A%2F%2Fanhdep123.com%2F99-hinh-anh-bau-troi-dem-dep-lung-linh-dung-lam-anh-nen-sieu-chat%2F&psig=AOvVaw0r7ixjg5K3baPsHl0uilLf&ust=1687612298445000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKC_2KK82f8CFQAAAAAdAAAAABAR)" width="130" height="130" alt="_ThanhDieu"></p>
 		<div class="wide">
 			<h2 class="NameFtThanhDieu">
 				<div  id="userName">
-				  @TruongPhat219 <img  src="https://nhanhoa.com/uploads/attach/1618816460_tich_xanh_facebook.png"  width="13" height="13" alt="Tích Xanh">
+				  @TruongPhat219 <img  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fchotdon.vn%2Fban-co-biet-tich-xanh-facebook-la-gi-va-co-quyen-loi-gi-chua&psig=AOvVaw2zwf6_Iq4dyAkn0FQtYS9h&ust=1687612374699000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJiWvce82f8CFQAAAAAdAAAAABAE"  width="13" height="13" alt="Tích Xanh">
 				</div></h2> 
 			<div class="login-box1">
 				<ul>
