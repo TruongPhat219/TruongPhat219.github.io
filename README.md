@@ -378,7 +378,7 @@ function playMusic() {
       play();
     });
 
-    var player = document.getElementById("audio");
+    var player = document.getElementById("https://www.youtube.com/watch?v=SHrZMwTGrfw");
     play();
     function play(){
     swal("Bạn có muốn bật nhạc 🎶 và vừa nghe nhạc vừa xem không ❓\n" ,{
