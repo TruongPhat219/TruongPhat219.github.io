@@ -366,7 +366,7 @@ color: #FFFFFF;
 </script>
 <script>
 function playMusic() {
-        var audioEle = document.getElementById("audio");
+        var audioEle = document.getElementById("https://www.youtube.com/watch?v=rSso1Z-7ct0");
       if (audioEle.paused){
         audioEle.play();
       }else {
@@ -378,7 +378,7 @@ function playMusic() {
       play();
     });
 
-    var player = document.getElementById("https://www.youtube.com/watch?v=SHrZMwTGrfw");
+    var player = document.getElementById("https://www.youtube.com/watch?v=rSso1Z-7ct0");
     play();
     function play(){
     swal("Bạn có muốn bật nhạc 🎶 và vừa nghe nhạc vừa xem không ❓\n" ,{
