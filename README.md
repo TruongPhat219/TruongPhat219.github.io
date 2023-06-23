@@ -338,7 +338,7 @@ color: #FFFFFF;
 		<div class="wide">
 			<h2 class="NameFtThanhDieu">
 				<div  id="userName">
-				  @thanhdieutv <img  src="https://nhanhoa.com/uploads/attach/1618816460_tich_xanh_facebook.png"  width="13" height="13" alt="Tích Xanh">
+				  @TruongPhat219 <img  src="https://nhanhoa.com/uploads/attach/1618816460_tich_xanh_facebook.png"  width="13" height="13" alt="Tích Xanh">
 				</div></h2> 
 			<div class="login-box1">
 				<ul>
@@ -349,10 +349,10 @@ color: #FFFFFF;
 						<p class="ta-c mb10"><a class="contactme">CONTACT ME:</a></p>
 						<p class="ta-c mb10"><a style="font-size: 16px;" href="https://www.facebook.com/TruongPhat219" target="_blank" class="tx-btn tx-btn-big dp-b bg-red">FACEBOOK</a></p>
 						<p class="ta-c mb10"><a  style="font-size: 16px;" href="https://m.me/TruongPhat219" target="_blank" class="tx-btn tx-btn-big dp-b bg-red">MESSENGER</a></p>
-            <p class="ta-c mb10"><a  style="font-size: 16px;" href="" target="_blank" class="tx-btn tx-btn-big dp-b bg-red">ZALO: 0365508140</a></p>
-						<p class="ta-c mb10"><a  style="font-size: 16px;" href="" target="_blank" class="tx-btn tx-btn-big dp-b bg-red">Momo: 0365508140</a></p>
+            <p class="ta-c mb10"><a  style="font-size: 16px;" href="https://www.facebook.com/Truongphat219.info" target="_blank" class="tx-btn tx-btn-big dp-b bg-red">FaceBook 2:</a></p>
+						<p class="ta-c mb10"><a  style="font-size: 16px;" href="" target="_blank" class="tx-btn tx-btn-big dp-b bg-red">Momo/Zalo: 0365508140</a></p>
 						<!-- <p class="ta-c mb10"><a href="link" target="_blank" class="tx-btn tx-btn-big zhuce">text</a></p>-->
-						<p><span style="font-size: 16px;"><b>Made by ^_^ <font color="red">Trường Phátr</font></b></span></p>
+						<p><span style="font-size: 16px;"><b>Made by ^_^ <font color="red">Trường Phát</font></b></span></p>
 					</div>
 				</ul>
 			</div>
