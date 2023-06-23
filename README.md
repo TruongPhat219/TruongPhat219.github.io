@@ -334,7 +334,7 @@ color: #FFFFFF;
 <body>
 		<br><br><br><br>
 		<p align="center">
-			<img class="Blob" src="https://scontent.fsgn2-7.fna.fbcdn.net/v/t1.15752-9/334910645_569168658522824_9034806584464371557_n.png?_nc_cat=108&cb=99be929b-3346023f&ccb=1-7&_nc_sid=ae9488&_nc_ohc=5kpXuDuJPeAAX9V5Gtz&_nc_ht=scontent.fsgn2-7.fna&oh=03_AdTWw2LOU5ANRgH0SaIFSRfkOMexMrcDQG_4gRPJZ5xiVg&oe=64BD0112"_TruongPhat"></p>
+			<img class="Blob" src="https://scontent.fsgn2-7.fna.fbcdn.net/v/t1.15752-9/334910645_569168658522824_9034806584464371557_n.png?_nc_cat=108&cb=99be929b-3346023f&ccb=1-7&_nc_sid=ae9488&_nc_ohc=5kpXuDuJPeAAX9V5Gtz&_nc_ht=scontent.fsgn2-7.fna&oh=03_AdTWw2LOU5ANRgH0SaIFSRfkOMexMrcDQG_4gRPJZ5xiVg&oe=64BD0112" width="130" height="130" alt="_TruongPhat"></p>
 		<div class="wide">
 			<h2 class="NameFtTruongPhat">
 				<div  id="userName">
