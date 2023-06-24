@@ -43,24 +43,24 @@ tick();
      // LINK
 //▬▬▬▬▬▬▬▬▬▬
 
-function Facebook1() {
+function Youtube() {
   setTimeout(function() {
-    window.open('https://www.facebook.com/TruongPhat219', 'ultimate')},
+    window.open('https://www.youtube.com/channel/UCiSP9FWliPIwG-w59dJdilQ', 'ultimate')},
   100);
 }
-function Facebook2() {
+function Facebook() {
   setTimeout(function() {
-    window.open('https://www.facebook.com/Truongphat219.info', 'ultimate')},
+    window.open('https://www.facebook.com/100035052735014', 'ultimate')},
   100);
 }
 function Discord() {
   setTimeout(function() {
-    window.open('https://dsc.bio/truongphat', 'ultimate')},
+    window.open('https://dsc.bio/WusThanhDieu', 'ultimate')},
   100);
 }
-function Zalo() {
+function Telegram() {
   setTimeout(function() {
-    window.open('https://zalo.me/0365508140', 'ultimate')},
+    window.open('https://t.me/ThanhDieuChannel', 'ultimate')},
   100);
 }
 
