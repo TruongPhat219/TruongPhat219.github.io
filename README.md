@@ -350,7 +350,7 @@ color: #FFFFFF;
 						<p class="ta-c mb10"><a style="font-size: 16px;" href="https://www.facebook.com/TruongPhat219" target="_blank" class="tx-btn tx-btn-big dp-b bg-red">FACEBOOK</a></p>
 						<p class="ta-c mb10"><a  style="font-size: 16px;" href="https://m.me/TruongPhat219" target="_blank" class="tx-btn tx-btn-big dp-b bg-red">MESSENGER</a></p>
             <p class="ta-c mb10"><a  style="font-size: 16px;" href="https://www.facebook.com/Truongphat219.info" target="_blank" class="tx-btn tx-btn-big dp-b bg-red">FACEBOOK 2</a></p>
-						<p class="ta-c mb10"><a  style="font-size: 16px;" href="" target="_blank" class="tx-btn tx-btn-big dp-b bg-red">Momo/Zalo: 0365508140</a></p>
+						<p class="ta-c mb10"><a  style="font-size: 16px;" href="https://zalo.me/0365508140" target="_blank" class="tx-btn tx-btn-big dp-b bg-red">Momo/Zalo: 0365508140</a></p>
 						<!-- <p class="ta-c mb10"><a href="link" target="_blank" class="tx-btn tx-btn-big zhuce">text</a></p>-->
 						<p><span style="font-size: 16px;"><b>Made by ^_^ <font color="red">Trường Phát</font></b></span></p>
 					</div>
