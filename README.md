@@ -369,5 +369,40 @@ color: #FFFFFF;
 
 <div id="jsi-flying-fish-container"></div><br><br>
 <footer style="text-align: center; font-size: 14px;">All rights reserved - © 2023<br></footer>
+function playMusic() {
+        var audioEle = document.getElementById("audio");
+      if (audioEle.paused){
+        audioEle.play();
+      }else {
+        audioEle.pause();
+      }
+    }
+    
+    $("#music").click(function(){
+      play();
+    });
+
+    var player = document.getElementById("audio");
+    play();
+    function play(){
+    swal("Bạn có muốn bật nhạc 🎶 và vừa nghe nhạc vừa xem không ❓\n" ,{
+            buttons: {
+              allowcancel: "Tắt Nhạc",
+                allow: "Bật Nhạc"
+            }
+        }).then(function(value) {
+            if (value == "allow") {
+              player.play()
+            } else {
+              player.pause()
+          
+            }
+        });
+    }
+
+</script><br><br><br><br><br><br>
+
+<div id="jsi-flying-fish-container"></div><br><br>
+<footer style="text-align: center; font-size: 14px;">All rights reserved - © 2023<br></footer>
 </body>
 
